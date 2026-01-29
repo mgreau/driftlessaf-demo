@@ -1,0 +1,9 @@
+issuer: https://accounts.google.com
+# mgreau85-gh-pr-hello@mgreau85-chainguard.iam.gserviceaccount.com
+subject: "112588961087701734298"
+
+permissions:
+  # Read PR details
+  pull_requests: read
+  # Read repo contents
+  contents: read
