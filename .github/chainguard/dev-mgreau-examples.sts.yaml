@@ -7,3 +7,4 @@ permissions:
   pull_requests: read
   # Read repo contents
   contents: read
+
