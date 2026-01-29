@@ -1,2 +1,2 @@
-# driftlessaf-examplessdsd
+# driftlessaf
 Demo for the Chainguard DriftlessAF agentic reconciliation framework
