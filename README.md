@@ -1,3 +1,3 @@
 # driftlessaf-examples
 
-Demo for the Chainguard DriftlessAF agentic reconciliation framework
+Demo for the Chainguard DriftlessAF agentic reconciliation
