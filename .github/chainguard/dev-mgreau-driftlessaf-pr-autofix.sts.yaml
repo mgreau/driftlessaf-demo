@@ -1,0 +1,9 @@
+issuer: https://accounts.google.com
+# mgreau85-gh-pr-afx@mgreau85-chainguard.iam.gserviceaccount.com
+subject: "102667287247918891689"
+
+permissions:
+  # to update PR titles and descriptions
+  pull_requests: write
+  contents: read
+  checks: write
